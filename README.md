@@ -1,4 +1,4 @@
-# Hi, I'm Aaptha!👋
+## 👋 Hi, I'm Aaptha. Glad you're here!
 
 ### Skilled in Software Development, Machine Learning, Web & App Development, and AI-powered Systems.
 Building intelligent, efficient, and scalable solutions at the intersection of **AI, Web Technologies, and Robotics**, I love integrating machine learning into web and mobile applications to create seamless, cutting-edge user experiences. Whether it's developing full-stack applications, leveraging AI for automation, or working with embedded systems and robotics, I'm always exploring innovative ways to blend AI with software engineering.
